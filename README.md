@@ -10,4 +10,4 @@ Sophomore at University of Missouri Columbia, studying IT with a minor in Data S
 ---
 [![](https://visitcount.itsvg.in/api?id=MaxWarrren&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.inn ) -->
