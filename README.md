@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sophomore at University of Missouri Columbia, studying IT with a minor in Data Sci. & CS<br><br>I'm an entrepeneurial minded student, working to combinine the worlds of software, digital media, and AI automation to create innovative solutions for the world<br><br>Part-time content creator looking to build a community of like-minded people in the realm of fitness, lifestyle, and business.<br><br>Connect with me below if you're intereseted in working / collaborating with me on anything...or if you just wanna join the movement and drop ya boy a follow :)
+Junior at University of Missouri Columbia, studying IT with a minor in Data Sci. & CS<br><br>I run my own AI automation agency, Axion Digital, where I partner with small businesses to build them scalable AI infrastructure & software systems<br><br>Part-time content creator looking to build a community of like-minded people in the realm of fitness, lifestyle, and business.<br><br>Connect with me below if you're intereseted in working / collaborating with me on anything...or if you just wanna join the movement and drop ya boy a follow :)
 
 
 # 💻 Tech Stack:
